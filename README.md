@@ -45,6 +45,12 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
+#### 🧑‍💻 Asistentes & Agentes IA
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logo=terminal&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-FF6B00?style=for-the-badge&logo=rocket&logoColor=white)
+
 ---
 #### 🎓 Certificaciones
 - **Google Cybersecurity Professional** — 2026
